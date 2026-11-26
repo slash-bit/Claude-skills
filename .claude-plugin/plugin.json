@@ -1,0 +1,14 @@
+{
+  "name": "slash-bit-skills",
+  "version": "0.1.0",
+  "description": "slash-bit's Claude Code skills: /add-issue files a GitHub issue after a short interview.",
+  "author": {
+    "name": "slash-bit",
+    "url": "https://github.com/slash-bit"
+  },
+  "repository": "https://github.com/slash-bit/claude-skills",
+  "keywords": ["github", "issues", "skills"],
+  "skills": [
+    "./skills/add-issue"
+  ]
+}
