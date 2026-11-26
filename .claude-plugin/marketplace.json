@@ -1,0 +1,17 @@
+{
+  "name": "slash-bit",
+  "owner": {
+    "name": "slash-bit",
+    "url": "https://github.com/slash-bit"
+  },
+  "description": "slash-bit's Claude Code skills.",
+  "plugins": [
+    {
+      "name": "slash-bit-skills",
+      "source": "./",
+      "description": "Skills for working with GitHub repositories, starting with /add-issue.",
+      "category": "productivity",
+      "keywords": ["github", "issues", "skills"]
+    }
+  ]
+}
