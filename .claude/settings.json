@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "mattpocock": {
+      "source": { "source": "github", "repo": "mattpocock/skills" }
+    },
+    "slash-bit": {
+      "source": { "source": "github", "repo": "slash-bit/claude-skills" }
+    }
+  },
+  "enabledPlugins": {
+    "mattpocock-skills@mattpocock": true,
+    "slash-bit-skills@slash-bit": true
+  }
+}
